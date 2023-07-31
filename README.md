@@ -10,8 +10,8 @@ Imagens do projeto:
 
 ### Links
 
-- URL GitHub: [solution url](https://github.com/julioresende77/lh-games)
-- URL Site: [website url]()
+- URL GitHub: [Link do repositorio](https://github.com/julioresende77/lh-games)
+- URL Site: [link do site](https://julioresende77.github.io/lh-games/)
 
 
 ### Construído com
